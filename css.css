@@ -1,7 +1,7 @@
 .text{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(255, 212, 220);
-    font-weight: bold;
+    font-weight: 500;
     font-size: 100px;
 }
 body{
@@ -29,4 +29,5 @@ h4 {
     color: rgb(206, 97, 133);
 
 }
+
 
