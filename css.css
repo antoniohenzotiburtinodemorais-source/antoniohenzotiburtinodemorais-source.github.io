@@ -1,0 +1,30 @@
+.text{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 212, 220);
+    font-weight: 400;
+    font-size: 100px;
+}
+body{
+    background-image: url(pink\ background.jfif);
+    background-size: cover;
+    line-height: 0.9;
+}
+.img {
+    transition: transform 0.3s;
+}
+
+.img:hover {
+    transform: scale(1.2);
+}
+img{
+    border-radius: 100px;
+}
+ol {
+    color: rgb(206, 97, 133);
+}
+h1 {
+    color: rgb(206, 97, 133);
+}
+h4 {
+    color: rgb(206, 97, 133);
+}
