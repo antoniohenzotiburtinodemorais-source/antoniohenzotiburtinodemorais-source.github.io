@@ -1,8 +1,8 @@
 .text{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: rgb(255, 212, 220);
-    font-weight: 400;
-    font-size: 100px;
+    font-weight: 320;
+    font-size: 80px;
 }
 body{
     background-image: url(pink\ background.jfif);
@@ -27,4 +27,5 @@ h1 {
 }
 h4 {
     color: rgb(206, 97, 133);
+
 }
